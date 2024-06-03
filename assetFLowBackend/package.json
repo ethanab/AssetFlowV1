@@ -1,0 +1,18 @@
+{
+  "name": "assetflowv1",
+  "version": "1.0.0",
+  "description": "##Read me file Asset Flow is a webappp especally concieved for managing real estate assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}

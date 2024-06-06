@@ -4,8 +4,9 @@
   "description": "##Read me file Asset Flow is a webappp especally concieved for managing real estate assets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }, 
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -15,4 +16,8 @@
   "devDependencies": {
     "nodemon": "^3.1.2"
   }
+
+
+
+  
 }
